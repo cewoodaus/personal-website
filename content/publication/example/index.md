@@ -14,7 +14,7 @@ abstract: Composite particles—atoms, molecules, or microspheres—are unique t
   missing theoretical tool with direct relevance for studies of joint
   foundations of quantum and relativistic phenomena, which removes a roadblock
   that could limit near-future quantum tests using composite particles.
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "2"
@@ -34,14 +34,13 @@ date: 2022-01-20T03:31:56.473Z
 url_slides: ""
 title: Composite particles with minimum uncertainty in spacetime
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: ""
-  focal_point: ""
-  preview_only: true
+  focal_point: CENTER
+  preview_only: false
   filename: mus_thumnail.png
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1103/PhysRevResearch.3.013049
