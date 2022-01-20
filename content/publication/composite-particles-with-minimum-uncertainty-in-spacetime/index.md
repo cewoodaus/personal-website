@@ -33,7 +33,12 @@ featured: true
 date: 2022-01-20T03:36:58.878Z
 url_slides: ""
 title: Composite particles with minimum uncertainty in spacetime
-tags: []
+tags:
+  - quantum-foundations
+  - uncertainty-principles
+categories:
+  - Quantum Foundations
+  - Uncertainty Principles
 projects: []
 image:
   caption: ""
