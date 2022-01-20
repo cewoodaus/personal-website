@@ -29,8 +29,7 @@ links: []
 event: Australian Institute of Physics Summer Meeting 2021
 publishDate: 2017-01-01T00:00:00.000Z
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
   focal_point: Right
