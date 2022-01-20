@@ -37,7 +37,7 @@ tags: []
 projects: []
 image:
   caption: ""
-  focal_point: CENTER
+  focal_point: ""
   preview_only: false
   filename: mus_thumnail.png
 publishDate: 2017-01-01T00:00:00.000Z
