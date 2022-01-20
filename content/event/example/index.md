@@ -16,12 +16,7 @@ url_video: ""
 date: 2021-12-07T06:45:00.000Z
 featured: false
 url_slides: ""
-address:
-  #street: 450 Serra Mall
-  #city: Stanford
-  #region: CA
-  #postcode: "94305"
-  #country: United States
+address: ""
 title: What Temperature is Schrödinger's Cat?
 location: |
   QUT Gardens Point, Brisbane
@@ -33,7 +28,7 @@ projects: []
 image:
   #caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
   focal_point: Right
-  filename: wood_aip2021talk.png
+  filename: featured.png
 url_code: ""
 all_day: false
 ---
