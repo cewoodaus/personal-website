@@ -13,7 +13,7 @@ social:
     link: https://scholar.google.com.au/citations?user=nX1LJLMAAAAJ&hl=en
   - display:
       header: true
-    link: " https://orcid.org/ 0000-0002-0258-6098"
+    link: " https://orcid.org/0000-0002-0258-6098"
     icon_pack: ai
     icon: orcid
 organizations:
