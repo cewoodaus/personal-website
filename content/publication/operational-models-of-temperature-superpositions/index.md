@@ -1,13 +1,15 @@
 ---
 title: Operational models of temperature superpositions
+subtitle: preprint
 publication_types:
-  - "0"
+  - "3"
 authors:
   - admin
   - Harshit Verma
   - Fabio Costa
   - Magdalena Zych
 doi: https://arxiv.org/abs/2112.07860
+abstract: ""
 draft: false
 featured: false
 tags:
