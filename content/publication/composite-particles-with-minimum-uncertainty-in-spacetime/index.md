@@ -45,6 +45,3 @@ url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1103/PhysRevResearch.3.013049
 ---
-```
-cite page="/publication/composite-particles-with-minimum-uncertainty-in-spacetime" view="4"
-```
