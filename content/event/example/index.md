@@ -8,7 +8,7 @@ abstract: When thermodynamical quantities are associated with quantum systems a
   `superposition of temperatures' arises.
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: Operational models of temperature superpositions
 date_end: 2021-12-07T06:52:00.000Z
 event_url: https://aip-summer-meeting.com/
 authors: []
