@@ -21,5 +21,5 @@ widget_id: RECENT-TALKS
 design:
   view: 2
   background:
-    image: wood_aip2021talk.png
+    image: ""
 ---
