@@ -8,8 +8,8 @@ interests:
   - Gravity
   - General Relativity
 social:
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com.au/citations?user=nX1LJLMAAAAJ&hl=en
   - display:
       header: true
