@@ -15,6 +15,10 @@ featured: false
 tags:
   - quantum-foundations
   - thermodynamics
+links:
+  - name: Read on arxiv.org
+    url: https://arxiv.org/abs/2112.07860
+    
 image:
   filename: featured.png
   focal_point: Smart
