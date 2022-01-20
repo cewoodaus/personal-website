@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Quantum Foundations
+    tag: Quantum Foundations
   - name: Other
     tag: Demo
 
