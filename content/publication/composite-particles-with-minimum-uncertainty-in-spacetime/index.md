@@ -45,24 +45,3 @@ url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1103/PhysRevResearch.3.013049
 ---
-<!--StartFragment-->
-
-```
-@article{PhysRevResearch.3.013049,
-  title = {Composite particles with minimum uncertainty in spacetime},
-  author = {Wood, Carolyn E. and Zych, Magdalena},
-  journal = {Phys. Rev. Research},
-  volume = {3},
-  issue = {1},
-  pages = {013049},
-  numpages = {12},
-  year = {2021},
-  month = {Jan},
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRevResearch.3.013049},
-  url = {https://link.aps.org/doi/10.1103/PhysRevResearch.3.013049}
-}
-
-```
-
-<!--EndFragment-->
