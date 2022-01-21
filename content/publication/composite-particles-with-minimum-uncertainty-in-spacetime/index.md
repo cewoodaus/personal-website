@@ -21,7 +21,9 @@ publication_types:
 authors:
   - admin
   - Magdalena Zych
-summary: ""
+summary: When composite particles with internal mass-energy states move through
+  spacetime they must be described by quantum states with minimum uncertainty in
+  position and velocity, not momentum.
 url_dataset: ""
 url_project: ""
 author_notes: []
