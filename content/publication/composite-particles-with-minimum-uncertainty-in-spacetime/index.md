@@ -26,7 +26,9 @@ summary: When composite particles with internal mass-energy states move through
   position and velocity, not momentum.
 url_dataset: ""
 url_project: ""
-author_notes: []
+author_notes:
+  - EQUS
+  - UQ School of Mathematics and Physics
 publication_short: Phys. Rev. Research 3, 013049 (2021)
 url_source: ""
 url_video: ""
