@@ -14,6 +14,7 @@ abstract: >-
 
 
   In this talk, I will introduce these new minimum uncertainty states and some of their unique properties. I will then discuss some of the groundwork we have laid for probing the quantum nature of temperature, by exploring two scenarios in which a ‘superposition of temperatures’ may arise.
+summary: Can we use composite particles to tease out quantum features of temperature, in analogy to how idealised clocks have been used to probe the quantum nature of time?
 location: Noosa, QLD
 date: 2021-12-01T04:50:37.169Z
 date_end: 2021-12-01T05:10:00.000Z
