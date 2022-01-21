@@ -36,9 +36,8 @@ title: Composite particles with minimum uncertainty in spacetime
 tags:
   - quantum-foundations
   - uncertainty-principles
-categories:
-  - Quantum Foundations
-  - Uncertainty Principles
+  - mass-energy-equivalence
+categories: []
 projects: []
 image:
   caption: ""
