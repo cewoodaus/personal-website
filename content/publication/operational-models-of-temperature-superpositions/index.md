@@ -14,6 +14,7 @@ featured: false
 tags:
   - quantum-foundations
   - thermodynamics
+  - quantum-information
 date: 2021-12-15T08:10:29.318Z
 links:
   - name: Read on arxiv.org
