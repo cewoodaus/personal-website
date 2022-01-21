@@ -1,6 +1,6 @@
 ---
 widget: post
-widget_id: tutorial
+widget_id: latextutorial
 headless: true
 weight: 160
 title: \\LaTeX Tutorial
