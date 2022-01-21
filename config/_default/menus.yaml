@@ -19,7 +19,7 @@ main:
   - name: Contact
     url: '#contact'
     weight: 60
-  - name: \\LaTeX Tutorial
+  - name: LaTeX Tutorial
     url: '#latextute'
     weight: 70
 
