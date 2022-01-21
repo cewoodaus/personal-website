@@ -1,6 +1,8 @@
 ---
 role: Physics PhD Student
-bio: ""
+bio: Carolyn Wood is a PhD student at the University of Queensland, in Brisbane,
+  Australia focusing on physics at the interface between quantum mechanics and
+  general relativity.
 interests:
   - Quantum Foundations
   - Thermodynamics
@@ -35,4 +37,4 @@ email: ""
 ---
 Carolyn Wood is a PhD student at the University of Queensland, in Brisbane, Australia. 
 
-My current research focuses on theoretical physics at the interface between quantum mechanics and general relativity, and straddles quantum foundations, thermodynamics, and quantum information. I am also broadly interested in future quantum technologies, quantum security and science policy making, and cross-disciplinary research combining physics and linguistics.
+Her current research focuses on physics at the interface between quantum mechanics and general relativity, and straddles quantum foundations, thermodynamics, and quantum information. She is also broadly interested in future quantum technologies, quantum security and science policy making, and cross-disciplinary research combining physics and linguistics.
