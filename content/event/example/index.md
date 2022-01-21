@@ -26,6 +26,7 @@ publishDate: 2021-12-08T00:00:00.000Z
 tags:
   - quantum-foundations
   - thermodynamics
+  - quantum-information
 categories:
   - Quantum Foundations
   - Thermodynamics
