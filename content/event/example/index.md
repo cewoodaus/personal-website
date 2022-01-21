@@ -22,7 +22,7 @@ location: |
   QUT Gardens Point, Brisbane
 links: []
 event: Australian Institute of Physics Summer Meeting 2021
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2021-12-08T00:00:00.000Z
 tags:
   - quantum-foundations
   - thermodynamics
