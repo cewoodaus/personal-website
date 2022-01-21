@@ -1,5 +1,5 @@
 ---
-widget: pages
+widget: blank
 widget_id: latextute
 headless: true
 weight: 170
