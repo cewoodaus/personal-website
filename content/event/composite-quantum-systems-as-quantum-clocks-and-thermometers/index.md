@@ -20,7 +20,7 @@ date_end: 2021-12-01T05:10:00.000Z
 all_day: false
 event: EQUS Annual Workshop
 event_url: https://equs.org/
-publishDate: 2022-01-21T00:47:37.203Z
+publishDate: 2021-12-01T00:47:37.203Z
 draft: false
 featured: false
 tags:
@@ -33,3 +33,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+``
