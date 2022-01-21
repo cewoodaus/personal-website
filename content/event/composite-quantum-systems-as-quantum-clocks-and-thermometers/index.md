@@ -3,8 +3,8 @@ title: Composite quantum systems as quantum clocks and thermometers
 abstract: >-
   Composite particles (like atoms and molecules) are unique tools for testing
   joint quantum and general relativistic effects. These particles are often
-  described as `clocks', in direct analogy to atomic clocks, however one could
-  also think of them as `thermometers', as they thermalise via coupling to
+  described as 'clocks', in direct analogy to atomic clocks, however one could
+  also think of them as 'thermometers', as they thermalise via coupling to
   external fields. Hence, one asks if we can use these particles to tease out
   quantum features of temperature, in analogy to how idealised clocks have been
   used to probe the quantum nature of time.
