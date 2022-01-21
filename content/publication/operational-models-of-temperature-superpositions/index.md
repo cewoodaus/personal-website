@@ -8,6 +8,9 @@ authors:
   - Harshit Verma
   - Fabio Costa
   - Magdalena Zych
+author_notes:
+  - EQUS
+  - UQ School of Mathematics and Physics
 abstract: ""
 draft: false
 featured: false
