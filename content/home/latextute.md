@@ -15,5 +15,3 @@ Carolyn first wrote this tutorial as a startup guide and introduction for underg
 Later members of the club added to the file, which now finds its home here.
 
 {{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/CarolynWood-LaTeXTutorial-v3.pdf" "newtab" >}}tutorial pdf{{< /staticref >}}.
-
-<!--EndFragment-->
