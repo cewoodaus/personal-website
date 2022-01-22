@@ -41,6 +41,6 @@ Her current research focuses on physics at the interface between quantum mechani
 
 <!--StartFragment-->
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CarolynWood_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 <!--EndFragment-->
