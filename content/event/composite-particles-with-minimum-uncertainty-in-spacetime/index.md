@@ -25,7 +25,7 @@ tags:
   - uncertainty-principles
   - mass-energy-equivalence
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
