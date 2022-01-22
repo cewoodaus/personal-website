@@ -21,14 +21,14 @@ social:
 organizations:
   - name: The University of Queensland
     url: https://uq.edu.au/
-  - name: EQUS (ARC Centre of Excellence for Engineered Quantum Systems)
+  - name: EQUS
     url: https://equs.org/
 education:
   courses:
     - course: BSc (Hons) in Physics
       institution: The University of Queensland
       year: ""
-    - course: BA LAL (Hons)
+    - course: BA (Hons) in Languages & Applied Lingustics
       institution: Griffith University
 superuser: true
 highlight_name: true
