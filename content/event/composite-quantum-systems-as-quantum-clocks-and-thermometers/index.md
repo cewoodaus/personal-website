@@ -33,7 +33,7 @@ tags:
   - mass-energy-equivalence
   - quantum-information
 image:
-  filename: featured
+  filename: 20211202_175350.jpg
   focal_point: Smart
   preview_only: false
 ---
