@@ -17,7 +17,7 @@ date: 2021-12-07T06:45:00.000Z
 featured: false
 url_slides: ""
 address: ""
-title: What Temperature is Schrödinger's Cat?
+title: "Talk: What Temperature is Schrödinger's Cat?"
 location: |
   QUT Gardens Point, Brisbane
 links: []
