@@ -1,5 +1,5 @@
 ---
-title: Composite particles with minimum uncertainty in spacetime
+title: "Talk: Composite particles with minimum uncertainty in spacetime"
 abstract: >-
   Composite particles such as atoms and molecules are promising tools for future
   experiments testing fundamental physics. However, as experiments advance in
