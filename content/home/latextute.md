@@ -10,6 +10,6 @@ design:
 ---
 [$\LaTeX$](https://en.wikibooks.org/wiki/LaTeX) is a document typesetting language which is extensively used in the scientific fields. 
 
-Carolyn first wrote this tutorial in 2013 as a startup guide and introduction for undergraduate physics students at the University of Queensland while she was the president of the UQ physics club. Later members of the club added to the file, which now finds its home here.
+Carolyn first wrote this tutorial in 2013 while she was the president of the University of Queensland physics club. It is intended as a startup guide and introduction for undergraduate students. Later members of the club added to the file, which now finds its home here.
 
 {{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/CarolynWood-LaTeXTutorial-v3.pdf" "newtab" >}}tutorial pdf{{< /staticref >}}.
