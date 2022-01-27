@@ -9,11 +9,11 @@ abstract: When thermodynamical quantities are associated with quantum systems a
 slides: ""
 url_pdf: ""
 summary: Operational models of temperature superpositions
-date_end: 2021-12-07T06:52:00.000Z
+date_end: 2022-01-27T04:15:36.596Z
 event_url: https://aip-summer-meeting.com/
 authors: []
 url_video: ""
-date: 2021-12-07T06:45:00.000Z
+date: 2022-01-27T04:15:30.638Z
 featured: false
 url_slides: ""
 address: ""
