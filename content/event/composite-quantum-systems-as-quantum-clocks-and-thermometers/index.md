@@ -19,8 +19,8 @@ summary: Can we use composite particles to tease out quantum features of
   quantum nature of time?
 title: "Talk: Composite quantum systems as quantum clocks and thermometers"
 location: EQUS Annual Workshop, Noosa, QLD
-date: 2021-12-01T04:50:37.169Z
-date_end: 2021-12-01T05:10:00.000Z
+date: 2021-11-30T18:50:37.169Z
+date_end: 2021-11-30T19:10:00.000Z
 all_day: false
 event: EQUS Annual Workshop
 event_url: https://equs.org/
