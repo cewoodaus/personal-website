@@ -24,7 +24,7 @@ date_end: 2021-12-01T05:10:00.000Z
 all_day: false
 event: EQUS Annual Workshop
 event_url: https://equs.org/
-publishDate: 2021-12-01T00:47:37.203Z
+publishDate: 2021-12-02T00:47:37.203Z
 featured: false
 tags:
   - quantum-foundations
