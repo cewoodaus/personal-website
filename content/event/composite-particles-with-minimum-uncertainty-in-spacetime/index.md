@@ -12,7 +12,7 @@ abstract: >-
 
   Here, we show the optimal way to prepare composite particles to fully avoid the delocalization and related loss of spatial coherence. We find the correct approach needed to discuss limitations on the space-time trajectories of composite quantum particles: it requires a new uncertainty principle which includes mass as an operator. We show that the quantum states which minimise the inequality propagate coherently in spacetime, and transform covariantly under boosts. This result highlights the fundamental differences between phase and configuration space for composite particles, while the new minimum uncertainty states will find applications in upcoming precision experimental tests. 
 location: APS March Meeting 2021, Online
-date: 2021-03-19T13:12:36.388Z
+date: 2021-03-19T13:12:00.000Z
 date_end: 2021-03-19T13:25:00.000Z
 all_day: false
 event: APS March Meeting
