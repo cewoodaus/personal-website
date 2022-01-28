@@ -1,5 +1,5 @@
 ---
-title: "Talk: Gaussian states don’t propagate semi-classically in spacetime"
+title: Gaussian states don’t propagate semi-classically in spacetime
 abstract: >-
   As experimental quantum technologies increase in complexity and precision, the
   loss of spatial coherence is a problem which will only increase. The same
