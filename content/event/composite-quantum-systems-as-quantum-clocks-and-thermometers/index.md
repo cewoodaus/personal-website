@@ -17,7 +17,7 @@ draft: false
 summary: Can we use composite particles to tease out quantum features of
   temperature, in analogy to how idealised clocks have been used to probe the
   quantum nature of time?
-title: "Talk: Composite quantum systems as quantum clocks and thermometers"
+title: Composite quantum systems as quantum clocks and thermometers
 location: EQUS Annual Workshop, Noosa, QLD
 date: 2021-12-01T04:50:00.000Z
 date_end: 2021-12-01T05:10:00.000Z
