@@ -1,22 +1,27 @@
 ---
-title: "Talk: Composite particles with minimum uncertainty in spacetime"
+title: "Talk: Gaussian states don’t propagate semi-classically in spacetime"
 abstract: >-
-  Composite particles such as atoms and molecules are promising tools for future
-  experiments testing fundamental physics. However, as experiments advance in
-  complexity and precision, the loss of spatial coherence is a problem which
-  will only increase. In all theoretical studies of propagating composite
-  particles, their internal energy components delocalise, and their spatial
-  coherence is destroyed. This calls into question the suitability of composite
-  particles as experimental tools, and is contrary to our understanding of atoms
-  and molecules as cohesive entities with well-localised spacetime trajectories.
+  As experimental quantum technologies increase in complexity and precision, the
+  loss of spatial coherence is a problem which will only increase. The same
+  complexity and precision, however, is bringing us closer to exciting tests of
+  fundamental physics. Composite particles such as atoms and molecules are
+  promising tools for these future experiments. However, in all theoretical
+  studies of such particles, modelled as freely-propagating Gaussian wave
+  packets, they delocalise into separate internal mass-energy components, and
+  their spatial coherence is destroyed. Besides calling into question the
+  suitability of composite particles as experimental tools, this behaviour is
+  contrary to even our most naive understanding of atoms and molecules as
+  cohesive entities in the ‘real’ world, where we expect them to have
+  well-localised spacetime trajectories. \\
 
-  Here, we show the optimal way to prepare composite particles to fully avoid the delocalization and related loss of spatial coherence. We find the correct approach needed to discuss limitations on the space-time trajectories of composite quantum particles: it requires a new uncertainty principle which includes mass as an operator. We show that the quantum states which minimise the inequality propagate coherently in spacetime, and transform covariantly under boosts. This result highlights the fundamental differences between phase and configuration space for composite particles, while the new minimum uncertainty states will find applications in upcoming precision experimental tests. 
-location: APS March Meeting 2021, Online
-date: 2021-03-19T13:12:00.000Z
-date_end: 2021-03-19T13:25:00.000Z
+
+  In this work, we identify the optimal way to prepare composite particles to fully avoid the delocalization and related loss of spatial coherence. We find the correct theoretical approach required to discuss limitations on the space-time trajectories of composite quantum particles --- it requires a new uncertainty principle which includes mass as an operator. We show that the quantum states which minimise the inequality propagate coherently in spacetime, and transform covariantly under boosts. This result highlights the fundamental differences between phase and configuration space for composite particles, reconciling theory with our naïve view, while the new minimum uncertainty states will find applications in upcoming precision experimental tests. 
+location: RQI-Online 2020/21
+date: 2021-02-18T00:40:00.000Z
+date_end: 2021-02-18T01:20:00.000Z
 all_day: false
-event: APS March Meeting
-event_url: https://meetings.aps.org/Meeting/MAR21/Session/X27.2
+event: RQI-Online 2020/21
+event_url: http://www.isrqi.net/conference/35
 publishDate: 2021-03-20T04:05:36.420Z
 draft: false
 featured: false
