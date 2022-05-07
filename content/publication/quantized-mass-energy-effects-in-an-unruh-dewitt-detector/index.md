@@ -14,6 +14,10 @@ tags:
   - quantum-foundations
   - quantum-field-theory
   - mass-energy-equivalence
+links:
+  - name: Read on arxiv.org
+    url: https://arxiv.org/abs/2205.02394
+doi: ""
 image:
   filename: featured
   focal_point: Smart
