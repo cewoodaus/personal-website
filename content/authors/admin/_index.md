@@ -1,6 +1,6 @@
 ---
 role: Physics PhD Student
-avatar_filename: avatar.jpg
+avatar_filename: wood-carolyn_2022-low-resolution-75_square.jpg
 bio: Carolyn Wood is a PhD student at the University of Queensland, in Brisbane,
   Australia focusing on physics at the interface between quantum mechanics and
   general relativity.
