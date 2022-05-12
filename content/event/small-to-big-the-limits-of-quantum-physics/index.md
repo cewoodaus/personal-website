@@ -1,7 +1,9 @@
 ---
 title: "Small to Big: The limits of quantum physics"
 abstract: >-
-  Quantum physics is weird, yet it underpins most of life and technology on Earth. How do we get to the familiar world we can see and touch from the world of quarks and atoms? Perhaps we can learn something from Einstein’s humble formula: E=mc^2.
+Quantum physics is weird, yet it underpins most of life and technology on Earth. How do we get to the familiar world we can see and touch from the world of quarks and atoms? Perhaps we can learn something from Einstein’s humble formula: E=mc^2.
+slides: ""
+url_pdf: ""
 location: Sea Legs Brewing Co, Kangaroo Point, Brisbane
 date: 2022-05-09T08:00:04.401Z
 date_end: 2022-05-09T08:30:00.000Z
