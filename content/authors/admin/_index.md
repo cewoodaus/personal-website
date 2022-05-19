@@ -8,7 +8,7 @@ interests:
   - Quantum Foundations
   - Thermodynamics
   - Quantum Information
-  - Gravity
+  - Quantum Field Theory
   - General Relativity
 social:
   - icon: google-scholar
