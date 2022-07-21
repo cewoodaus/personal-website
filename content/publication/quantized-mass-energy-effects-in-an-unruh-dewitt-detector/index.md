@@ -30,7 +30,7 @@ abstract: A simple but powerful particle detector model consists of a two-level
   Unruh-DeWitt detector as a massive particle without including the mass-energy
   equivalence.
 draft: false
-featured: true
+featured: false
 tags:
   - quantum-foundations
   - quantum-field-theory
