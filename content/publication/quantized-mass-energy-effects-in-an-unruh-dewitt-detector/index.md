@@ -1,6 +1,6 @@
 ---
 title: Quantized mass-energy effects in an Unruh-deWitt detector
-subtitle: preprint
+subtitle: ""
 publication_types:
   - "2"
 authors:
