@@ -26,13 +26,13 @@ organizations:
     url: https://equs.org/
 education:
   courses:
+    - course: PhD in Physics
+      institution: The University of Queensland
     - course: BSc (Hons) in Physics
       institution: The University of Queensland
       year: ""
     - course: BA (Hons) in Languages & Applied Lingustics
       institution: Griffith University
-    - course: PhD in Physics
-      institution: The University of Queensland
 superuser: true
 highlight_name: true
 title: Carolyn Wood
