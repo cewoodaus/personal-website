@@ -14,10 +14,10 @@ abstract: >-
   interest has arisen in more realistic quantum descriptions of the detector's
   centre of mass, where it has been described either as moving in superposition
   along classical trajectories, or dynamically evolving under a non-relativistic
-  Hamiltonian.\
+  Hamiltonian.
 
 
-  Yet results in atomic physics show mass-energy equivalence plays a crucial role in energy and momentum conservation for atom-light interactions. Neither of the above UDW models can capture this effect, as absorption or emission of field quanta must also change the detector's rest mass by an equivalent energy.\
+  Yet results in atomic physics show mass-energy equivalence plays a crucial role in energy and momentum conservation for atom-light interactions. Neither of the above UDW models can capture this effect, as absorption or emission of field quanta must also change the detector's rest mass by an equivalent energy.
 
 
   Here we address this problem and incorporate quantisation of the detector's mass-energy into the UDW model. We show that changes in internal energy due to emission/absorption persist even at low energies. Specifically, corrections to transition rates due to mass changes cannot be ignored unless the entirety of the center of mass dynamics is also ignored. Our results imply that one cannot model a massive particle interacting with a relativistic quantum field consistently without at the least including relativistic mass-energy equivalence in the particle's dynamics.
