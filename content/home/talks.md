@@ -6,7 +6,7 @@ title: Recent & Upcoming Talks
 subtitle: null
 content:
   page_type: event
-  count: 5
+  count: 3
   filters:
     author: ""
     category: ""
