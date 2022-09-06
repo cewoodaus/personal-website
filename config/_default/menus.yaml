@@ -19,13 +19,16 @@ main:
   - name: $\\LaTeX$ Tutorial
     url: '#latextute'
     weight: 60
+  - name: Archive
+    url: '#archive'
+    weight: 70
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   #- name: CV
   #  url: uploads/CarolynWood_cv.pdf
-  #  weight: 70
+  #  weight: 80
   - name: Contact
     url: '#contact'
-    weight: 80
+    weight: 90
 
 
