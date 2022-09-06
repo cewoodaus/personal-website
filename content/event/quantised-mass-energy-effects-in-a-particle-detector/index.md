@@ -32,8 +32,11 @@ draft: false
 featured: false
 tags:
   - quantum-foundations
-  - uncertainty-principles
+  - quantum-information
+  - relativity
+  - quantum-field-theory
   - mass-energy-equivalence
+  - unruh-dewitt-detectors
 image:
   filename: udw.png
   focal_point: Smart
