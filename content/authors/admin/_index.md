@@ -11,6 +11,11 @@ interests:
   - Quantum Field Theory
   - General Relativity
 social:
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/carolyn-e-wood-51046a252
+    icon_pack: fab
+    icon: linkedin
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com.au/citations?user=nX1LJLMAAAAJ&hl=en
