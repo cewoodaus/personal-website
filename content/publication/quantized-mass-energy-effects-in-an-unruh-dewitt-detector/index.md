@@ -1,5 +1,5 @@
 ---
-title: Quantized mass-energy effects in an Unruh-deWitt detector
+title: Quantized mass-energy effects in an Unruh-DeWitt detector
 subtitle: ""
 publication_types:
   - "2"
@@ -35,6 +35,7 @@ tags:
   - quantum-foundations
   - quantum-field-theory
   - mass-energy-equivalence
+  - unruh-dewitt-detectors
 date: 2022-05-07T00:06:32.090Z
 links:
   - name: Read on arxiv.org
