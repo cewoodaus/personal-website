@@ -1,5 +1,5 @@
 ---
-title: Quantised mass-energy effects in a particle detector
+title: Quantized mass-energy effects in a particle detector
 abstract: >-
   The Unruh-DeWitt (UDW) detector is a simple but powerful model of a quantum
   particle interacting with an external environment, e.g. a field. The
