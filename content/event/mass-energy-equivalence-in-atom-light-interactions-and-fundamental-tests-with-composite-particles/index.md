@@ -15,11 +15,11 @@ abstract: >-
 
 
   In this talk, I will discuss these recent results and others from our group, as well as some open problems arising from this research.
-location: Rydges, Newcastle
+location: EQUS Annual Workshop, Newcastle, NSW
 date: 2022-12-04T22:30:27.412Z
 date_end: 2022-12-07T02:00:00.000Z
 all_day: true
-event: EQUS Annual Workshop 2023
+event: EQUS Annual Workshop
 event_url: https://equs.org/
 publishDate: 2023-01-18T05:09:27.450Z
 draft: false
