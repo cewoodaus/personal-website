@@ -69,7 +69,7 @@ tags:
   - mass-energy-equivalence
   - unruh-dewitt-detectors
 image:
-  filename: featured
+  filename: udw.png
   focal_point: Smart
   preview_only: false
 ---
