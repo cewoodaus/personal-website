@@ -28,5 +28,9 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
+summary: Composite quantum particles, such as atoms and molecules, are promising
+  tools for probing quantum systems under gravitational effects. However,
+  greater understanding of mass--energy equivalence in composite particles and
+  their interactions with external environments is required.
 date: 2023-02-13T23:53:02.177Z
 ---
