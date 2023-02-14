@@ -18,6 +18,8 @@ draft: false
 featured: false
 tags:
   - quantum-foundations
+  - thermodynamics
+  - quantum-information
   - quantum-field-theory
   - mass-energy-equivalence
   - unruh-dewitt-detectors
