@@ -32,7 +32,7 @@ publication_short: Phys. Rev. Research 3, 013049 (2021)
 url_source: ""
 url_video: ""
 publication: ""
-featured: true
+featured: false
 date: 2021-01-15T03:36:00.000Z
 url_slides: ""
 title: Composite particles with minimum uncertainty in spacetime
