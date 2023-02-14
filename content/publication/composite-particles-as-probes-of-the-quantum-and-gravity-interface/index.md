@@ -4,7 +4,7 @@ subtitle: PhD Thesis
 publication_types:
   - "7"
 authors:
-  - Carolyn Wood
+  - admin
 doi: https://doi.org/10.14264/018fe71
 abstract: >-
   Composite quantum particles, such as atoms and molecules, are promising tools
