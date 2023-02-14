@@ -16,6 +16,11 @@ abstract: >-
   Ther results stress that mass--energy equivalence is required to correctly model quantum particles with internal structure, particularly when the interplay between internal, external, and environmental degrees of freedom is crucial.
 draft: false
 featured: false
+tags:
+  - quantum-foundations
+  - quantum-field-theory
+  - mass-energy-equivalence
+  - unruh-dewitt-detectors
 image:
   filename: featured.png
   focal_point: Smart
