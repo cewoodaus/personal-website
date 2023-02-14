@@ -1,5 +1,6 @@
 ---
 title: Composite particles as probes of the quantum-and-gravity interface
+subtitle: PhD Thesis
 publication_types:
   - "7"
 authors:
