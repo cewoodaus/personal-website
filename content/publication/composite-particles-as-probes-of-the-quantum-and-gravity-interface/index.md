@@ -16,7 +16,7 @@ abstract: >-
 
   Ther results stress that mass--energy equivalence is required to correctly model quantum particles with internal structure, particularly when the interplay between internal, external, and environmental degrees of freedom is crucial.
 draft: false
-featured: false
+featured: true
 tags:
   - quantum-foundations
   - thermodynamics
