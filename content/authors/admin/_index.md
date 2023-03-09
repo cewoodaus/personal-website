@@ -27,7 +27,7 @@ social:
     link: https://orcid.org/0000-0002-0258-6098
 organizations:
   - name: The University of Queensland
-    url: https://uq.edu.au/
+    url: https://researchers.uq.edu.au/researcher/39027
   - name: EQUS
     url: https://equs.org/
 education:
