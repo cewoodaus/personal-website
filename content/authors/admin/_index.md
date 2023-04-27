@@ -2,7 +2,7 @@
 role: Postdoctoral Scientist
 avatar_filename: wood-carolyn_2022-low-resolution-75_square.jpg
 bio: Carolyn Wood is a postdoctoral researcher at the University of Queensland,
-  in Brisbane, Australia focusing on physics at the interface between quantum
+  in Brisbane, Australia focusing on quantum machine learning and physics at the interface between quantum
   mechanics and general relativity.
 interests:
   - Quantum Information
@@ -44,7 +44,7 @@ highlight_name: true
 title: Carolyn Wood
 email: ""
 ---
-Carolyn Wood is a postdoctoral researcher and Deborah Jin Fellow at the University of Queensland, in Brisbane, Australia, and the ARC Centre of Excellence for Engineered Quantum Systems (EQUS). 
+Carolyn Wood is a Deborah Jin Research Fellow with the ARC Centre of Excellence for Engineered Quantum Systems (EQUS), based at the University of Queensland, in Brisbane, Australia. 
 
 Her current research focuses on physics at the interface between quantum mechanics, general relativity, and thermodynamics, particularly when viewed through the lens of quantum information theory. She is also working on machine learning applications in quantum computing.
 
