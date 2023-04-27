@@ -18,7 +18,7 @@ date: 2022-03-18T18:42:30.638Z
 featured: false
 url_slides: ""
 address: ""
-title: What Temperature is Schrödinger's Cat?
+title: What Temperature is Schrödinger's Cat? - APS March Meeting 2022
 location: |
   APS March Meeting 2022, Chicago, IL/Online
 links: []
