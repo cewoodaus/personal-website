@@ -6,11 +6,12 @@ bio: Carolyn Wood is a postdoctoral researcher at the University of Queensland,
   mechanics and general relativity.
 interests:
   - Quantum Information
+  - Machine Learning
   - Thermodynamics
   - Quantum Field Theory
   - General Relativity
   - Quantum Foundations
-  - Machine Learning
+ 
 social:
   - display:
       header: false
@@ -46,6 +47,6 @@ email: ""
 ---
 Carolyn Wood is a Deborah Jin Research Fellow with the ARC Centre of Excellence for Engineered Quantum Systems (EQUS), based at the University of Queensland, in Brisbane, Australia. 
 
-Her current research focuses on physics at the interface between quantum mechanics, general relativity, and thermodynamics, particularly when viewed through the lens of quantum information theory. She is also working on machine learning applications in quantum computing.
+Her current research focuses on physics at the interface between quantum mechanics, general relativity, and thermodynamics, particularly when viewed through the lens of quantum information theory, and on quantum machine learning.
 
 She is also broadly interested in quantum foundations, quantum security and science policy making, and cross-disciplinary research combining physics and linguistics.
