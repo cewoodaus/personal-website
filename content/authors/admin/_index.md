@@ -47,6 +47,6 @@ email: ""
 ---
 Carolyn Wood is a Deborah Jin Research Fellow with the ARC Centre of Excellence for Engineered Quantum Systems (EQUS), based at the University of Queensland, in Brisbane, Australia. 
 
-Her current research focuses on physics at the interface between quantum mechanics, general relativity, and thermodynamics, particularly when viewed through the lens of quantum information theory, and on quantum machine learning.
+Her current research focuses on physics at the interface between quantum mechanics, general relativity, and thermodynamics viewed through the lens of quantum information theory, quantum machine learning, and the applications of both to current and future quantum technologies.
 
 She is also broadly interested in quantum foundations, quantum security and science policy making, and cross-disciplinary research combining physics and linguistics.
