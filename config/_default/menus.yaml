@@ -9,29 +9,29 @@ main:
     weight: 10
   #- name: Projects
   #  url: '#projects'
-  #  weight: 30
+  #  weight: 15
   - name: Talks
     url: '#talks'
-    weight: 40
+    weight: 20
   - name: Publications
     url: '#featured'
-    weight: 50
+    weight: 30
     - name: QTDU2023
     url: '#qtdu'
-    weight: 60
+    weight: 40
   - name: $\\LaTeX$ Tutorial
     url: '#latextute'
-    weight: 70
+    weight: 50
   - name: Archive
     url: '#archive'
-    weight: 80
+    weight: 60
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   #- name: CV
   #  url: uploads/CarolynWood_cv.pdf
-  #  weight: 90
+  #  weight: 70
   - name: Contact
     url: '#contact'
-    weight: 100
+    weight: 80
 
 
