@@ -10,7 +10,7 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    image: australia_road_sign_medium_w5-29.png
+    image: ""
 ---
 QTDU 2023 is a small conference Carolyn co-organised to bring together the Australian and Asia-Pacific quantum thermodynamics community.
 
