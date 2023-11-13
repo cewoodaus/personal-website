@@ -7,7 +7,7 @@ abstract: >-
   varies, as, for example, in the Tolman-Ehrenfest effect? 
 
   Here we formulate two scenarios in which the notion of a ``superposition of temperatures” may arise. First: a probe interacting with two different baths dependent on the state of another quantum system (the control). Second: a probe interacting with a single bath whose purified state is itself a superposition of states corresponding to different temperatures. We show that the two scenarios are fundamentally different and can be operationally distinguished. Moreover, we show that the probe does not in general thermalise even when the involved temperatures are equal, and that the final probe state is sensitive to the specific realisation of the thermalising channels. Our models may be applied to scenarios involving joint quantum, gravitational, and thermodynamic phenomena, and explain some recent results found in quantum interference of relativistic probes thermalising with Unruh or Hawking radiation. Finally, we show that our results are reproduced in partial and pre-thermalisation processes, and thus our approach and conclusions hold beyond the idealised scenarios, where thermalisation is incomplete.
-location: Brisbane, Australia
+location: QTDU2023, Brisbane, Australia
 date: 2023-11-09T05:30:48.847Z
 date_end: 2023-11-09T06:00:00.000Z
 all_day: false
