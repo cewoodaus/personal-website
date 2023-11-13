@@ -17,7 +17,7 @@ abstract: >-
   Here I will discuss how we addressed this problem, and describe a new detector model which leverages the simplicity of the UDW model while also incorporating quantisation of the detector's mass-energy to allow mass changes due to emission/absorption. I show
 
   that these relativistic effects persist even at low energies and cannot be ignored unless all centre of mass dynamics is ignored. I will also show how our new model compares to the previous models with classical CoM and quantum CoM, as well as the detector in a superposition of trajectories, and discuss particular effects that arise due to mass--energy equivalence. I will then present a further step we have taken, in which such a detector with a variable mass has ground and excited states in superposition, producing a model where the detector can be interpreted as a quantum clock weakly interacting with its environment. 
-location: Chania, Greece
+location: RQI-North, Chania, Greece
 date: 2023-07-16T21:00:48.847Z
 date_end: 2023-07-20T20:59:00.000Z
 all_day: true
