@@ -10,7 +10,7 @@ date_end: 2023-12-07T06:00:00.000Z
 all_day: false
 event: ANZCOP/AIP Summer Meeting 2023
 event_url: https://aip-summer-meeting.com/
-publishDate: 2023-11-28T05:47:48.870Z
+publishDate: 2023-11-27T05:47:48.870Z
 draft: false
 featured: false
 tags:
