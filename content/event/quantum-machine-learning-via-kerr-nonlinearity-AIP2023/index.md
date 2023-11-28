@@ -1,5 +1,5 @@
 ---
-title: Quantum machine learning via Kerr non-linearity
+title: Quantum machine learning via Kerr non-linearity - AIP2023
 abstract: >-
   Kernel methods are of current interest in quantum machine learning due to similarities with quantum computing in how they process information in high-dimensional feature (Hilbert) spaces. Kernels are believed to offer particular advantages when they cannot be computed classically, so a kernel with indisputably nonclassical elements is desirable. Kerr nonlinearities, known to be a route to universal continuous variable (CV) quantum computation, may be able to play this role for quantum machine learning.
 
