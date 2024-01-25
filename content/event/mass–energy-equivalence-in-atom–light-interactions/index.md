@@ -27,7 +27,7 @@ location: RQI14, Brisbane, QLD
 date: 2023-02-07T22:30:07.140Z
 date_end: 2023-02-09T07:00:00.000Z
 all_day: false
-event: RQI14 2023
+event: "14th Annual International Workshop on Relativistic Quantum Information "
 event_url: https://isrqi.net/
 publishDate: 2023-01-18T05:28:07.177Z
 draft: false
