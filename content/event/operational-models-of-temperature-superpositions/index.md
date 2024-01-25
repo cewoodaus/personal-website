@@ -11,7 +11,7 @@ location: QTDU2023, Brisbane, Australia
 date: 2023-11-09T05:30:48.847Z
 date_end: 2023-11-09T06:00:00.000Z
 all_day: false
-event: QTDU 2023
+event: Quantum Thermodynamics Down Under 2023
 event_url: https://qtdownunder2023.com/
 publishDate: 2023-11-12T05:47:48.870Z
 draft: false
