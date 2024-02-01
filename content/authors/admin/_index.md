@@ -2,8 +2,8 @@
 role: Postdoctoral Scientist
 avatar_filename: wood-carolyn_2022-low-resolution-75_square.jpg
 bio: Carolyn Wood is a postdoctoral researcher at the University of Queensland,
-  in Brisbane, Australia focusing on quantum machine learning and physics at the interface between quantum
-  mechanics and general relativity.
+  in Brisbane, Australia focusing on quantum machine learning and physics at the
+  interface between quantum mechanics and general relativity.
 interests:
   - Quantum Information
   - Machine Learning
@@ -11,7 +11,6 @@ interests:
   - Quantum Field Theory
   - General Relativity
   - Quantum Foundations
- 
 social:
   - display:
       header: false
@@ -23,13 +22,18 @@ social:
     link: https://scholar.google.com.au/citations?user=nX1LJLMAAAAJ&hl=en
   - display:
       header: false
+    link: https://www.researchgate.net/profile/Carolyn-Wood-4
+    icon_pack: ai
+    icon: researchgate
+  - display:
+      header: false
     icon_pack: ai
     icon: orcid
     link: https://orcid.org/0000-0002-0258-6098
 organizations:
   - name: The University of Queensland
     url: https://researchers.uq.edu.au/researcher/39027
-  - name: EQUS
+  - name: ARC Centre for Engineered Quantum Systems (EQUS)
     url: https://equs.org/
 education:
   courses:
