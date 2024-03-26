@@ -3,7 +3,7 @@ widget: blank
 widget_id: qtdu
 headless: true
 weight: 6
-title: QTDU2023
+title: Quantum Thermodynamics Down Under
 active: true
 design:
   columns: "2"
