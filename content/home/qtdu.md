@@ -10,6 +10,6 @@ design:
   background:
     image: ""
 ---
-Quantum Thermodynamics Down Under is a small conference Carolyn co-organised to bring together the Australian and Asia-Pacific quantum thermodynamics community.
+Quantum Thermodynamics Down Under is a small conference Carolyn is currently co-organising for its second iteration to bring together the Australian and Asia-Pacific quantum thermodynamics community.
 
-Further information at the website here: [](www.qtdownunder.com)<https://qtdownunder2023.com/>
+Further information at the website here: [](https://qtdownunder2024.com)<https://qtdownunder2024.com/>
