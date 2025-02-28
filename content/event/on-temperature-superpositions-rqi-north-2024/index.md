@@ -1,5 +1,5 @@
 ---
-title: On Temperature Superpositions RQI North 2024
+title: Operational Models of Temperature Superpositions RQI North 2024
 abstract: >-
   An interacting quantum system and thermal bath can reach thermal equilibrium,
   resulting in each acquiring the same temperature. But how does a quantum
