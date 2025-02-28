@@ -1,5 +1,5 @@
 ---
-title: Quantum Kernel Learning for Bosonic Modes
+title: Quantum Kernel Learning for Bosonic Modes QTML2024
 abstract: Kernel methods are of current interest in quantum machine learning due
   to similarities with quantum computing in how they process information in
   high-dimensional feature (Hilbert) spaces~\cite{Schuld2021}. Kernels are
