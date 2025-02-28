@@ -9,8 +9,8 @@ abstract: Kernel methods are of current interest in quantum machine learning due
   extensively researched for discrete states such as qubits, relatively few
   works have considered them in the continuous variable regime. Kerr
   nonlinearities, already a known route to universal continuous variable (CV)
-  quantum computation~\cite{Lloyd1999}, are also a strong source of
-  nonclassicality for machine learning.
+  quantum computation, are also a strong source of nonclassicality for machine
+  learning.
 location: QTML2024, Melbourne, Australia
 date: 2024-11-28T06:30:38.449Z
 date_end: 2023-11-28T06:45:00.000Z
